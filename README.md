@@ -1,6 +1,6 @@
 - 👋 Welcome to my GitHub.
 -  I’m Felix Atuhaire
-- 👀 I’m a Software Developer (Frontend && Android Developer)
-- 🌱 I’m currently learning React Native
+- 👀 I’m a Software Developer (Frontend)
+- 🌱 I’m currently learning React.
 - 💞️ Thank You.
 
