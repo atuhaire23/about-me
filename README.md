@@ -1,6 +1,5 @@
 - 👋 Welcome to my GitHub.
 -  I’m Felix Atuhaire
-- 👀 I’m a Software Developer (Frontend)
-- 🌱 I’m currently learning React.
+- 👀 I’m a Frontend Developer.
 - 💞️ Let's link up, Code ideas to life.
 
