@@ -1,12 +1,15 @@
-Hi 👋, I am Felix M. Atuhaire.
+Hi 👋, Welcome to my profile.
 
-I am a Frontend Developer creating solutions to problems using software.
+I am Felix M. Atuhaire. 
+Self-taught software developer. 
 
-Developing projects using React, Nodejs at the moment.
+Creating real world solutions using code.
+Looking foward to working with bigger teams. 
 
-Looking forward to collaborate and contribute to open source.
+Available for work on Frontend developer roles.
+Thank you!
 
-Available for Frontend Roles
+
 
 
 
